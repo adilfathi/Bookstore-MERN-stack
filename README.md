@@ -3,6 +3,11 @@
 
 Welcome to the Book Store Project! This is a dynamic and interactive web application built using the powerful MERN stack (MongoDB, Express.js, React.js, Node.js). This platform offers users the ability to explore a diverse collection of books, search for their favorite titles, view detailed information about each book, and manage their selections in a cart for purchase. Additionally, users with the necessary permissions can add new books to the collection, update book details, or remove books as needed.
 
+<img width="1440" alt="Screenshot 2024-08-28 at 08 32 56" src="https://github.com/user-attachments/assets/632b7cce-ae6f-4c94-aa6f-97cfc971a52e">
+<img width="1440" alt="Screenshot 2024-08-28 at 08 32 51" src="https://github.com/user-attachments/assets/eb5cc049-8918-488c-b7fa-b2fcb25a5489">
+
+
+
 ## Key Features
 
 - **Browse Books:** Discover a wide range of books presented in a visually appealing layout, using both cards and tables for easy navigation.
