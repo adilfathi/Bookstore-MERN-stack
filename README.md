@@ -54,6 +54,12 @@ We welcome contributions to enhance the functionality of this project. Feel free
 
 - [adilfathi](https://github.com/adilfathi)
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+---
+
 
 
 Dive into our Book Store Project today and experience a seamless, user-friendly way to manage and explore your book collection!
